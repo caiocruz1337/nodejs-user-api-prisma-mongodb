@@ -64,22 +64,3 @@ app.delete('/usuarios/:id', async (req, res) => {
 })
 
 app.listen(3000)
-
-
-
-/* Criar API de Usuarios
-
--Criar um usuario 
--Listar todos os usuarios
--Editar um usuarios
--Deletar um usuarios
-
-
-// caiocruz1337
-// 2nE4fWmslc4QrDFz
-
-/*
-     1) Tipo de Rota / Metodo HTTP
-     2) Endereço
-
-     */
